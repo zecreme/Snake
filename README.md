@@ -1,5 +1,5 @@
 # Snake
-Uma simples implementação do jogo Snake em Python com Pygame
+A simple iteration of the snake game with python on Pygame
 
 ![Snake](http://i.imgur.com/1zX6KQW.png)
 
