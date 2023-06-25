@@ -1,5 +1,5 @@
 # Snake
-A simple iteration of the snake game with python on Pygame
+I am trying to intergrate anything that I can here
 
 ![Snake](http://i.imgur.com/1zX6KQW.png)
 
